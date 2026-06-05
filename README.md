@@ -6,8 +6,7 @@
     <title>Document</title>
 </head>
 <body>
-<h1> mi sitio
-
-</h1>
+    <h1 style="color: blue;">mi primer pagina web</h1>
+    <p>bsbxcn hsbmnx mxzchjdsn,xc nsxvzh sxz</p>
 </body>
 </html>
